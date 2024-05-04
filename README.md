@@ -12,8 +12,8 @@ Let's collaborate and transform ideas into data-driven realities that benefit ou
 Thank you for visiting!
 
 ## Table of Contents
-## Portfolio Projects
 
+## Portfolio Projects
 ## Education
 
 ## Certificates 

@@ -20,7 +20,7 @@ This section lists data analytics projects, briefly describing the technology st
 
 **Objective:** To analyze the store's sales records, gain insights into its performance, and pinpoint areas for improvement.
 
-**Code:** 
+**Code:** https://github.com/patiencesimuli/Portfolio-Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb 
 
 **Skills:** Hypothesis testing, Data analysis, Correlation matrices, Data visualization.
 

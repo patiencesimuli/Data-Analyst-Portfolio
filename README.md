@@ -28,6 +28,6 @@ This section lists data analytics projects, briefly describing the technology st
 
 ## Education
 
-## Certificates 
-
 ## Contacts
+- LinkedIn: @tiannaparris
+- Email: parristianna@yahoo.com

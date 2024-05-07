@@ -14,6 +14,18 @@ Thank you for visiting!
 ## Table of Contents
 
 ## Portfolio Projects
+This section lists data analytics projects, briefly describing the technology stack used to solve cases.
+
+### Tech Store Sales Analysis
+
+**Objective:** To analyze the store's sales records, gain insights into its performance, and pinpoint areas for improvement.
+
+**Code:** 
+
+**Skills:** Hypothesis testing, Data analysis, Correlation matrices, Data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
 ## Education
 
 ## Certificates 

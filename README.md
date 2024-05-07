@@ -27,7 +27,10 @@ This section lists data analytics projects, briefly describing the technology st
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 ## Education
+Jomo Kenyatta University of Agriculture and Technology, Bachelor's degree in Telecommunication and Information Engineering, 2018 - 2023
+
+Cambridge Univeral College: Python programming, 2018
 
 ## Contacts
-- LinkedIn: @tiannaparris
-- Email: parristianna@yahoo.com
+- LinkedIn: www.linkedin.com/in/patience-simuli-11-datascientist-telecommunications-softwareengineering 
+- Email: patiencesimuli@gmail.com
